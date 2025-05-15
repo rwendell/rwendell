@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwendell&label=Views&color=green&style=flat" alt="rwendell" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwendell&label=Views&color=b8bb26&style=flat" alt="rwendell" />
 
 
 <h3 align="left">Languages and Tools:</h3>
